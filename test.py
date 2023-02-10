@@ -1,7 +1,7 @@
 from binance.client import Client
 
 """Вы должны вставить свой API key"""
-client = Client("jW8XBOfoqnDA4rV6DvT5ftFGlLrOqc0JGQrSY6FnnjidEJuc2ncZpwBFvWjR08cM")
+client = Client("")
 
 """Запускаем непрерывный цикл в котором будет отслеживать динамику цены"""
 while True:
